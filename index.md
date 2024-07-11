@@ -4,3 +4,6 @@
 ```python
 print("Hello World!")
 ```
+- [ ] Python
+- [ ] Excel
+- [ ] SQL
